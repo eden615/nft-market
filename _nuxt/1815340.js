@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[28],{972:function(t,n,e){"use strict";e.r(n);var r={name:"Intro",data:function(){return{}},mounted:function(){this.$router.push("/market")}},o=e(3),component=Object(o.a)(r,(function(){var t=this.$createElement;return(this._self._c||t)("div")}),[],!1,null,"f07a8908",null);n.default=component.exports}}]);
